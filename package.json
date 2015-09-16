@@ -1,8 +1,16 @@
 {
   "name": "archyedt-thin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ArchyEDT-Thin Web-Font Package",
-  "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "archyedt-thin"],
+  "keywords": [
+    "ttf",
+    "woff",
+    "woff2",
+    "svg",
+    "font",
+    "web-font",
+    "archyedt-thin"
+  ],
   "main": "css/archyedt-thin.css",
   "homepage": "https://github.com/web-fonts/archyedt-thin",
   "author": "Lado Lomidze <lado.lomidze@gmail.com>",
@@ -18,6 +26,6 @@
     {
       "type": "MIT",
       "url": "http://opensource.org/licenses/MIT"
-   }
+    }
   ]
 }
