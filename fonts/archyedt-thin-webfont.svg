@@ -3,7 +3,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata></metadata>
 <defs>
-<font id="archy_edtthin" horiz-adv-x="1044" >
+<font id="archyedt-thinregular" horiz-adv-x="1044" >
 <font-face units-per-em="2048" ascent="1536" descent="-512" />
 <missing-glyph horiz-adv-x="512" />
 <glyph unicode="ff" horiz-adv-x="1189" d="M147 983v2q-1 6 3 9t10 3l116 4h27v209q0 53 15.5 92.5t51.5 72t103 49t164 16.5h6q12 0 12 -13v-6q2 -12 -12 -12h-6q-87 0 -147.5 -14.5t-93.5 -43t-46.5 -62.5t-13.5 -79v-209h547v209q0 53 15.5 92.5t51.5 72t103 49t164 16.5h6q12 0 12 -13v-6q2 -12 -12 -12h-6 q-87 0 -148 -14.5t-93.5 -43t-46.5 -62.5t-14 -79v-209h269q12 0 12 -12l2 -6q0 -12 -12 -12h-268l-3 -1391q0 -12 -12 -12h-8q-12 0 -12 12l2 1391h-547l-2 -1391q0 -12 -12 -12h-9q-12 0 -12 12l2 1391h-143q-15 0 -15 12z" />
