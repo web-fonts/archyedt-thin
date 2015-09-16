@@ -1,7 +1,7 @@
 {
   "name": "archyedt-thin",
   "description": "ArchyEDT-Thin Web-Font Package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "archyedt-thin"],
   "main": [
     "css/archyedt-thin.css"
